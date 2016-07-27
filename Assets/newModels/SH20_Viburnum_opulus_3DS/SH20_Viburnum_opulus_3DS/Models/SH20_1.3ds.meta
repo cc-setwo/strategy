@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: dc82117636049ad4ca2cd05167d43669
+timeCreated: 1468963116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: br1_NL_INV
+    100002: br1t2_NL_I
+    100004: br1t3_NL_I
+    100006: br1t4_NL_I
+    100008: br2_NL
+    100010: br2t2_NL
+    100012: br2t3_NL
+    100014: br2t4_NL
+    100016: br3_NL
+    100018: br3t2_NL
+    100020: br3t3_NL
+    100022: br3t4_NL
+    100024: leaf_TRA0_
+    100026: leaft2_TRA
+    100028: leaft3_TRA
+    100030: leaft4_TRA
+    100032: //RootNode
+    100034: tr_NL_INV
+    100036: trt2_NL_IN
+    100038: trt3_NL_IN
+    100040: trt4_NL_IN
+    400000: br1_NL_INV
+    400002: br1t2_NL_I
+    400004: br1t3_NL_I
+    400006: br1t4_NL_I
+    400008: br2_NL
+    400010: br2t2_NL
+    400012: br2t3_NL
+    400014: br2t4_NL
+    400016: br3_NL
+    400018: br3t2_NL
+    400020: br3t3_NL
+    400022: br3t4_NL
+    400024: leaf_TRA0_
+    400026: leaft2_TRA
+    400028: leaft3_TRA
+    400030: leaft4_TRA
+    400032: //RootNode
+    400034: tr_NL_INV
+    400036: trt2_NL_IN
+    400038: trt3_NL_IN
+    400040: trt4_NL_IN
+    2300000: br1_NL_INV
+    2300002: br1t2_NL_I
+    2300004: br1t3_NL_I
+    2300006: br1t4_NL_I
+    2300008: br2_NL
+    2300010: br2t2_NL
+    2300012: br2t3_NL
+    2300014: br2t4_NL
+    2300016: br3_NL
+    2300018: br3t2_NL
+    2300020: br3t3_NL
+    2300022: br3t4_NL
+    2300024: leaf_TRA0_
+    2300026: leaft2_TRA
+    2300028: leaft3_TRA
+    2300030: leaft4_TRA
+    2300032: tr_NL_INV
+    2300034: trt2_NL_IN
+    2300036: trt3_NL_IN
+    2300038: trt4_NL_IN
+    3300000: br1_NL_INV
+    3300002: br1t2_NL_I
+    3300004: br1t3_NL_I
+    3300006: br1t4_NL_I
+    3300008: br2_NL
+    3300010: br2t2_NL
+    3300012: br2t3_NL
+    3300014: br2t4_NL
+    3300016: br3_NL
+    3300018: br3t2_NL
+    3300020: br3t3_NL
+    3300022: br3t4_NL
+    3300024: leaf_TRA0_
+    3300026: leaft2_TRA
+    3300028: leaft3_TRA
+    3300030: leaft4_TRA
+    3300032: tr_NL_INV
+    3300034: trt2_NL_IN
+    3300036: trt3_NL_IN
+    3300038: trt4_NL_IN
+    4300000: tr_NL_INV
+    4300002: br1_NL_INV
+    4300004: br2_NL
+    4300006: br3_NL
+    4300008: leaf_TRA0_
+    4300010: trt2_NL_IN
+    4300012: br1t2_NL_I
+    4300014: br2t2_NL
+    4300016: br3t2_NL
+    4300018: leaft2_TRA
+    4300020: trt3_NL_IN
+    4300022: br1t3_NL_I
+    4300024: br2t3_NL
+    4300026: br3t3_NL
+    4300028: leaft3_TRA
+    4300030: trt4_NL_IN
+    4300032: br1t4_NL_I
+    4300034: br2t4_NL
+    4300036: br3t4_NL
+    4300038: leaft4_TRA
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
